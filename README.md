@@ -18,6 +18,7 @@
     * `git clone https://github.com/philipwilson/ubuntu-vagrant.git`
 * From a terminal, try the following commands in order:
     * `cd ubuntu-vagrant`
+    * `mkdir shared`
     * `vagrant provision`
     * `vagrant up`
     * `vagrant ssh # should log you into the linux virtual machine)`
