@@ -15,7 +15,7 @@
 * Download and install Vagrant from here:
     https://www.vagrantup.com/downloads.html
 * From a terminal shell, clone this repo:
-    git clone https://github.com/philipwilson/ubuntu-vagrant.git
+    * `git clone https://github.com/philipwilson/ubuntu-vagrant.git`
 * From a terminal, try the following commands in order:
     * `cd ubuntu-vagrant`
     * `vagrant provision`
