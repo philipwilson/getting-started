@@ -17,9 +17,9 @@
 * From a terminal shell, clone this repo:
     git clone https://github.com/philipwilson/ubuntu-vagrant.git
 * From a terminal, try the following commands in order:
-    cd ubuntu-vagrant
-    vagrant provision
-    vagrant up
-    vagrant ssh # should log you into the linux virtual machine)
-    exit # (to leave the virtual machine)
-    vagrant halt # (stops the virtual machine)
+    * `cd ubuntu-vagrant`
+    * `vagrant provision`
+    * `vagrant up`
+    * `vagrant ssh # should log you into the linux virtual machine)`
+    * `exit # (to leave the virtual machine)`
+    * `vagrant halt # (stops the virtual machine)`
